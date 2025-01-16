@@ -6,4 +6,7 @@ Testing repo for Prisma ORM.
 
 ```shell
 pnpm add -D prisma typescript ts-node @types/node
+
+#
+pnpm dlx prisma init --datasource-provider postgresql
 ```
